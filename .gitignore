@@ -7,3 +7,6 @@ node_modules
 
 # TS output
 dist
+
+coverage/
+coverage.json
